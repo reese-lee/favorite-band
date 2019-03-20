@@ -1,0 +1,16 @@
+.sidebar {
+  float: right;
+  background-color: lightblue;
+}
+
+.main {
+  float: left;
+}
+
+.main1 {
+  float: right;
+}
+
+body {
+  background-color: grey;
+}
