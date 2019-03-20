@@ -1,14 +1,19 @@
 .sidebar {
   float: right;
+  margin: 12px;
+  border: 20px solid green;
+  padding: 10px;
   background-color: lightblue;
 }
 
 .main {
   float: left;
+  padding: 20px;
 }
 
 .main1 {
   float: right;
+  padding: 20px;
 }
 
 body {
